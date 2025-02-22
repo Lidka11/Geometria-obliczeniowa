@@ -1,5 +1,8 @@
 Geometria Obliczeniowa 🧮
-Repozytorium z implementacjami algorytmów geometrii obliczeniowej 🔍. Znajdziesz tu m.in. algorytmy do:
+
+Repozytorium z implementacjami algorytmów geometrii obliczeniowej 🔍. 
+
+Znajdziesz tu m.in. algorytmy do:
 
 Otoczki wokół punktów (Convex Hull) 🟩
 Analizy danych geometrycznych 📐

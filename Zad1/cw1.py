@@ -239,7 +239,7 @@ def odswiez(coordinates, entries):
         print("Błąd konwersji:", e)
 
 def wczytaj(coordinates, entries):
-    path = "C:/sem3/GeometriaObliczeniowa/zad2/dane.txt"
+    path = "dane.txt"
     if path:
         try:
             with open(path, "r") as plik:

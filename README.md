@@ -1,4 +1,4 @@
-Geometria Obliczeniowa 🧮
+# Geometria Obliczeniowa 🧮
 
 Repozytorium z implementacjami algorytmów geometrii obliczeniowej 🔍. 
 

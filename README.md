@@ -10,5 +10,4 @@ Wszystkie algorytmy są zaimplementowane w Pythonie , z przykładami użycia i w
 
 
 Technologie:
-Python
-numpy, matplotlib, scipy
+python, numpy, matplotlib, scipy
